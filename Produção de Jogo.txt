@@ -1,0 +1,50 @@
+Produção de Jogo-Salão de Beleza-
+Sprint 1
+
+Elaborar o roteiro do jogo, e definir:
+
+-- Nome do jogo;
+-- Gênero;
+-- Descrição do jogo;
+-- Thumbnail do jogo;
+-- Integrantes e nome do squad;
+-- Website (URL) do GitHub Pages do projeto.
+
+Sprint 2
+
+-- Entrega da versão prévia do jogo;
+-- Entrega da versão prévia do website;
+-- Entrega da versão préva do catálogo.
+
+Sprint 3
+
+-- Entrega da versão definitiva do jogo;
+-- Entrega do website contendo a documentação do jogo e o catálogo da empresa fictícia produtora.
+
+
+
+
+FPOO
+
+Desenvolver um jogo no Greenfoot a gosto que, minimamente tenha:
+Storytelling bem contextualizada com, no mínimo, dois personagens (pelo menos um jogável, os demais podem ser apenas NPCs);
+Telas de diálogos de introdução, diálogos entre personagens e telas que representem o fim do jogo com créditos;
+Música(s) nos "mundos" e sonoplastia ao realizar ações com o personagem;
+Funções sugeridas dentro dos squads: designer gráfico, programador, programador/produtor, redator.
+JavaScript
+
+Um site deverá ser criado para o jogo e, no site, utilize recursos aprendidos em aula, não se limitando a pesquisar por outros na internet.
+Arquivo .js com ao menos 5 funções;
+HTML, CSS e JS em arquivos separados;
+Páginas: inicial, história, personagens, comandos, download do jogo, squad e o catálogo da produtora fictícia (nome a ser definido por toda a turma!).
+Backend
+
+Desenvolver um catálogo contendo as seguintes informações dos jogos de todos os squads e que contenha o Swagger e um banco de dados que armazene as seguintes informações de cada jogo:
+
+Nome do jogo;
+Nome do jogo; 
+Gênero;
+Descrição do jogo;
+Thumbnail do jogo;
+Integrantes e nome do squad;
+Website (URL) do GitHub Pages do projeto.
